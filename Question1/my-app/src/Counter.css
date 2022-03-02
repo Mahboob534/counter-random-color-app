@@ -1,0 +1,11 @@
+.circleBtn{
+    width:100px;
+    height:100px;
+    border:1px solid red;
+    background:#fff;
+    border-radius:50%;
+    font-weight:600;
+    font-size:3rem ;
+  
+}
+
